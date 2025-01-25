@@ -1,5 +1,4 @@
 ```mermaid
-%%{init: {'themeVariables': { 'nodeSpacing': '250', 'rankSpacing': '250'}}}%%
 flowchart TD
 
 A[Start Game] --> B{Player Chooses}

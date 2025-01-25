@@ -32,6 +32,9 @@ O --> R{END}
 P --> R
 Q --> R
 ```
+> [!NOTE]
+> Arrows that connect to nodes only connect in the middle of one of its four sides, so some nodes pass through blocks they are not connected to. I tried to increase the spacing but I could not figure it out.
+
 1. B --> C, D, E
    - ***C**, **D**, and **E** are the three different choices the player can pick (rock, paper, and scissors, respectively.*
 2. C --> F, G, H; D --> I, J, K; E --> L, M, N

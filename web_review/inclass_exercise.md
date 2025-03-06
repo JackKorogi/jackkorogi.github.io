@@ -80,7 +80,7 @@ You should now have a multi-section webpage with a header, navigation menu, main
 
 
 ### Part 2: Create `styles.css`
-1. **Create a new file** named `style.css`.
+1. **Create a new file** named `styles.css`.
 2. **Start by setting up general body styles**:
     ```css
     /* General body styles */
